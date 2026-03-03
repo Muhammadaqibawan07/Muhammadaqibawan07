@@ -17,10 +17,10 @@ I'm a software developer with a strong passion for creating elegant, efficient, 
 
 ## 💻 Skills
 
-- **Languages**: JavaScript, Python, Java, C++
+- **Languages**: PHP, Laravel , Nodejs, Backend Development
 - **Frontend**: React, Vue.js, HTML5, CSS3, Tailwind CSS
 - **Backend**: Node.js, Express, Django, Flask
-- **Databases**: MongoDB, PostgreSQL, MySQL, Firebase
+- **Databases**: MongoDB, MySQL, Firebase
 - **Tools & Platforms**: Git, Docker, AWS, GitHub Actions, VS Code
 - **Other**: REST APIs, GraphQL, Agile Development, Problem Solving
 
