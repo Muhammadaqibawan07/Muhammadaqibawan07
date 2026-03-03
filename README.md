@@ -35,14 +35,6 @@ I'm a software developer with a strong passion for creating elegant, efficient, 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammadaqibawan07&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadaqibawan07&layout=compact&theme=github_dark)
-
----
-
 ## 🤝 Let's Connect
 
 I'd love to hear from you! Feel free to reach out through any of these channels:
@@ -56,7 +48,6 @@ I'd love to hear from you! Feel free to reach out through any of these channels:
 
 ## 💼 Open to Opportunities
 
-- 💼 Open for freelance projects
 - 🔖 Open to discussing interesting ideas
 - 🎓 Happy to help with technical questions
 - 🚀 Always interested in collaborations
